@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "bde268e9-4bfa-4bca-aace-17f1c2886c55": {
+      "label": "Portal Fantasy Narnia",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/qkgOyeIsXOw?si=vMVQqjKV6K215mY5",
+      "duration": 300
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Portal Fantasy",
+  "created_at": "2026-10-07T02:20:50.655Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-10-07T02:20:50.655Z",
+  "updated_by": "Bridie219"
+}
